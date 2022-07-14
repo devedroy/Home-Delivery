@@ -3,11 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/circle_image.xml" value="0.1" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/oval_right_cornered.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rect_left_cornered_pink.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rect_oval_pink.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rect_rounded_yellow.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rect_top_rounded_yellow.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rect_toprounded_yellow.xml" value="0.14" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rounded_corner.xml" value="0.1" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rounded_corner_button.xml" value="0.14" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rounded_corner_button_pink.xml" value="0.126" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/drawable/rounded_rect.xml" value="0.33" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_add_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_bank_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_item_picker.xml" value="0.25" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_profile_setting.xml" value="0.25" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_role_picker.xml" value="0.25" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_splash_screen.xml" value="0.27685185185185185" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/activity_starter.xml" value="0.25" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/image_selector_view.xml" value="0.25" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/HomeDelivery/app/src/main/res/layout/item.xml" value="0.25" />
       </map>
     </option>
   </component>

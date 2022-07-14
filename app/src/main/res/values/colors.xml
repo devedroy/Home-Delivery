@@ -8,5 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="loginEle">#F40456</color>
+    <color name="pink">#F40456</color>
+    <color name="yellow700">#F4DC05</color>
+    <color name="yellow200">#D6C108</color>
+    <color name="green500">#084A0A</color>
+    <color name="green200">#10B115</color>
+    <color name="light_gray">#B6BAB6</color>
+
 </resources>

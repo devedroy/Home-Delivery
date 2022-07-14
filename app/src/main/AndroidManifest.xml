@@ -14,6 +14,27 @@
         android:theme="@style/Theme.HomeDelivery"
         tools:targetApi="31">
         <activity
+            android:name=".ui.ProfileSettingActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.BankDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ItemPickerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.RolePickerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.AddDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.StarterActivity"
             android:exported="false" />
         <activity
@@ -22,11 +43,7 @@
         <activity
             android:name=".ui.SplashScreen"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 
