@@ -14,10 +14,22 @@
         android:theme="@style/Theme.HomeDelivery"
         tools:targetApi="31">
         <activity
-            android:name=".ui.SuggestShopActivity"
+            android:name=".AmountActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.ProfileSettingActivity"
+            android:name=".ui.CustomerDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.LOGIN"
+            android:exported="false" />
+        <activity
+            android:name=".ui.OTP"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Welcome"
+            android:exported="false" />
+        <activity
+            android:name=".ui.CreateAccountActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,6 +37,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ui.ResetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SuggestShopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ProfileSettingActivity"
+            android:exported="false" />
         <activity
             android:name=".ui.BankDetailActivity"
             android:exported="false" />
@@ -45,7 +69,7 @@
             android:exported="false" />
         <activity
             android:name=".ui.SplashScreen"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>
