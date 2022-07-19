@@ -100,6 +100,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="forgotPassword"
                 android:text="Forgot Password ?"
                 android:textAlignment="viewEnd"
                 android:textColor="@color/light_gray"
@@ -113,6 +114,7 @@
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="@dimen/_10sdp"
                 android:background="@drawable/rounded_corner_button_pink"
+                android:onClick="login"
                 android:paddingTop="@dimen/_8sdp"
                 android:paddingBottom="@dimen/_8sdp"
                 android:text="Log in"
@@ -132,13 +134,13 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:onClick="createAccount"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/_15sdp"
                 android:layout_marginTop="30dp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="@dimen/_10sdp"
                 android:background="@drawable/rect_rounded_yellow_border"
+                android:onClick="createAccount"
                 android:paddingTop="@dimen/_8sdp"
                 android:paddingBottom="@dimen/_8sdp"
                 android:text="Create Account"

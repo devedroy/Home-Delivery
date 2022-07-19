@@ -19,4 +19,12 @@ public class LoginActivity extends AppCompatActivity {
     public void createAccount(View view) {
         startActivity(new Intent(LoginActivity.this, CreateAccountActivity.class));
     }
+
+    public void login(View view) {
+        startActivity(new Intent(LoginActivity.this, RolePickerActivity.class));
+    }
+
+    public void forgotPassword(View view) {
+        startActivity(new Intent(LoginActivity.this, ForgotPasswordActivity.class));
+    }
 }

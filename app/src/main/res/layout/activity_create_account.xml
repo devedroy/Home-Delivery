@@ -28,6 +28,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/white"
             android:orientation="vertical"
             android:padding="@dimen/_5sdp">
 
@@ -44,6 +45,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -59,7 +61,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -84,6 +86,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -99,7 +102,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -125,6 +128,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -140,7 +144,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -166,6 +170,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -181,7 +186,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -231,7 +236,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <RadioButton
@@ -248,7 +253,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <RadioButton
@@ -264,7 +269,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <RadioButton
@@ -285,6 +290,7 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical"
                 android:padding="10dp">
 
@@ -301,7 +307,7 @@
                     android:layout_height="wrap_content"
                     android:padding="@dimen/_5sdp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <LinearLayout
@@ -332,6 +338,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -347,7 +354,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -373,6 +380,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -388,7 +396,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -414,6 +422,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <TextView
@@ -429,7 +438,7 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     app:cardBackgroundColor="@color/white"
-                    app:cardCornerRadius="@dimen/_10sdp"
+
                     app:cardElevation="@dimen/_50sdp">
 
                     <com.google.android.material.textfield.TextInputLayout
@@ -456,6 +465,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="horizontal">
 
 
@@ -479,7 +489,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -521,7 +531,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -547,6 +557,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="horizontal">
 
 
@@ -570,7 +581,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -612,7 +623,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -638,6 +649,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:orientation="horizontal">
 
 
@@ -661,7 +673,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -703,7 +715,7 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_5sdp"
                         app:cardBackgroundColor="@color/white"
-                        app:cardCornerRadius="@dimen/_10sdp"
+
                         app:cardElevation="@dimen/_50sdp">
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -737,6 +749,7 @@
                 android:paddingBottom="@dimen/_8sdp"
                 android:text="Sign Up"
                 android:textAlignment="center"
+                android:onClick="signUp"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
                 android:textSize="@dimen/_25sdp" />
