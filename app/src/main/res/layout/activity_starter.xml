@@ -34,6 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/_15sdp"
         android:layout_marginTop="30dp"
+        android:onClick="getStarted"
         android:layout_marginEnd="@dimen/_15sdp"
         android:layout_marginBottom="@dimen/_10sdp"
         android:background="@drawable/rect_rounded_yellow"

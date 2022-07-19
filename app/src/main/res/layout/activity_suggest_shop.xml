@@ -69,6 +69,7 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -80,7 +81,7 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
                     android:layout_alignParentLeft="true"
-                    android:text="Land Mark"
+                    android:text="Land Mark "
                     android:textColor="@color/light_gray"
                     android:textStyle="bold" />
 
@@ -98,6 +99,7 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -109,7 +111,7 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
                     android:layout_alignParentLeft="true"
-                    android:text="Area"
+                    android:text=" Area    "
                     android:textColor="@color/light_gray"
                     android:textStyle="bold" />
 

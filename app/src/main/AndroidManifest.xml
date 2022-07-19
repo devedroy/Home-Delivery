@@ -14,7 +14,7 @@
         android:theme="@style/Theme.HomeDelivery"
         tools:targetApi="31">
         <activity
-            android:name=".AmountActivity"
+            android:name=".ui.AmountActivity"
             android:exported="false" />
         <activity
             android:name=".ui.CustomerDetailActivity"
@@ -30,12 +30,8 @@
             android:exported="false" />
         <activity
             android:name=".ui.CreateAccountActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            android:exported="false">
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".ui.ResetPasswordActivity"
@@ -69,7 +65,13 @@
             android:exported="false" />
         <activity
             android:name=".ui.SplashScreen"
-            android:exported="true" />
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
